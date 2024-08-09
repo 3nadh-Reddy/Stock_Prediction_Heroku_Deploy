@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('/static/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #333;
+}
+
+h1 {
+    color: #333;
+    margin-top: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
+select {
+    font-size: 1em;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    font-size: 1em;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    font-size: 1.1em;
+    color: #666;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 1.1em;
+}
+
+div {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
+
+
+
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1 {
+    color: #333;
+    margin-top: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
+select {
+    font-size: 1em;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    font-size: 1em;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    font-size: 1.1em;
+    color: #666;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 1.1em;
+}
+
+div {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} */
